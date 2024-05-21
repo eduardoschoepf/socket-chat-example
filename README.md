@@ -19,7 +19,7 @@ Welcome to the Real-time Chat Application project! This application allows users
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/eduardoschoepf/SocketChatExample.git
+git clone https://github.com/eduardoschoepf/socket-chat-example.git
 ```
 
 2. Install dependencies:
